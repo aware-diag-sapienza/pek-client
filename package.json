@@ -1,10 +1,12 @@
 {
   "name": "pek-client",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "",
+  "public": true,
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
   },
   "author": "Graziano Blasilli <graziano.blasilli@uniroma1.it>",
   "license": "CC-BY-NC-4.0"
